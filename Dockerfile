@@ -9,6 +9,7 @@ RUN apk add --no-cache \
     ca-certificates \
     tzdata \
     coreutils \
+    nodejs \
  && update-ca-certificates
 
 
