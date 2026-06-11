@@ -7,6 +7,7 @@ ARGO_PORT="${ARGO_PORT:-8001}"
 IPS="${IPS:-4}"
 OPERA="${OPERA:-0}"
 COUNTRY="${COUNTRY:-AM}"
+WSPORT=7860
 
 # ================= 工具 =================
 get_free_port() {
