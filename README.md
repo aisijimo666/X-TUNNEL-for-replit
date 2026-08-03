@@ -1,3 +1,7 @@
+Shiper 
+git commit --allow-empty -m "Trigger Shiper redeploy"
+git push origin main
+
 # 這是專案的說明文件，包含了完整的配置指南。
 
 # ⚡ ECH Tunnel + Cloudflare Argo Quick Tunnel Docker 專案
